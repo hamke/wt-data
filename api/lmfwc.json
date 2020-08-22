@@ -152,6 +152,23 @@
       "createdBy": 1,
       "updatedAt": "2020-08-22 17:25:17",
       "updatedBy": 1
+    },
+    {
+      "id": 16,
+      "orderId": 89,
+      "productId": 12,
+      "userId": 2,
+      "licenseKey": "BFAA-ABFA-A1DA-4A2S",
+      "expiresAt": "2021-08-22 17:44:22",
+      "validFor": 365,
+      "source": 1,
+      "status": 2,
+      "timesActivated": null,
+      "timesActivatedMax": 0,
+      "createdAt": "2020-08-22 17:44:22",
+      "createdBy": 2,
+      "updatedAt": "2020-08-22 17:44:22",
+      "updatedBy": 2
     }
   ]
 }
