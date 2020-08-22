@@ -118,6 +118,23 @@
       "createdBy": 1,
       "updatedAt": "2020-08-22 08:59:26",
       "updatedBy": 1
+    },
+    {
+      "id": 14,
+      "orderId": 80,
+      "productId": 12,
+      "userId": 2,
+      "licenseKey": "1D1S-2ABD-D1SF-KDS4",
+      "expiresAt": "2021-08-22 14:57:50",
+      "validFor": 365,
+      "source": 1,
+      "status": 2,
+      "timesActivated": null,
+      "timesActivatedMax": 0,
+      "createdAt": "2020-08-22 14:57:50",
+      "createdBy": 2,
+      "updatedAt": "2020-08-22 14:57:50",
+      "updatedBy": 2
     }
   ]
 }
