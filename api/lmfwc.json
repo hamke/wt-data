@@ -135,6 +135,23 @@
       "createdBy": 3,
       "updatedAt": "2020-08-22 17:53:35",
       "updatedBy": 3
+    },
+    {
+      "id": 18,
+      "orderId": 93,
+      "productId": 77,
+      "userId": 0,
+      "licenseKey": "FDAA-1FAF-KFFD-4F1K",
+      "expiresAt": "2021-08-22 18:08:12",
+      "validFor": 365,
+      "source": 1,
+      "status": 2,
+      "timesActivated": null,
+      "timesActivatedMax": 0,
+      "createdAt": "2020-08-22 18:08:12",
+      "createdBy": 0,
+      "updatedAt": "2020-08-22 18:08:12",
+      "updatedBy": 0
     }
   ]
 }
