@@ -135,6 +135,23 @@
       "createdBy": 2,
       "updatedAt": "2020-08-22 14:57:50",
       "updatedBy": 2
+    },
+    {
+      "id": 15,
+      "orderId": 85,
+      "productId": 77,
+      "userId": 1,
+      "licenseKey": "F2AD-SSBA-2FA2-2S4D",
+      "expiresAt": "2021-08-22 17:25:17",
+      "validFor": 365,
+      "source": 1,
+      "status": 2,
+      "timesActivated": null,
+      "timesActivatedMax": 0,
+      "createdAt": "2020-08-22 17:25:17",
+      "createdBy": 1,
+      "updatedAt": "2020-08-22 17:25:17",
+      "updatedBy": 1
     }
   ]
 }
